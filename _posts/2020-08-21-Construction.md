@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site under construction
+title: Blog under construction
 ---
 
 Stay tuned for updates!
