@@ -9,7 +9,7 @@ permalink: /publications/
 *Submitted for NeurIPS 2021*
 
 #### [Challenges for Using Impact Regularizers to Avoid Negative Side Effects](https://arxiv.org/abs/2101.12509)
-David Lindner\*, Kyle Matoba\*, Alexander Meulemans\*
+David Lindner\*, Kyle Matoba\*, **Alexander Meulemans**\*
 *SafeAI - AAAI 2021*
 
 #### [Neural networks with late-phase weights](https://arxiv.org/abs/2007.12927)
