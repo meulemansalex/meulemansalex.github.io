@@ -4,7 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-#### [Credit Assignment in Neural Networks through Deep Feedback Control](https://arxiv.org/abs/2106.07887)
+#### [The least-control principle for learning at equilibrium](https://arxiv.org/abs/2207.01332)
+**Alexander Meulemans**\*, Nicolas Zucchet\*, Seijin Kobayashi\*, Johannes von Oswald, João Sacramento
+*Submitted to NeurIPS 2022*
+
+#### [Minimizing Control for Credit Assignment with Strong Feedback](https://arxiv.org/abs/2204.07249)
+**Alexander Meulemans**\*, Matilde Tristany Farinha\*, Maria R. Cervera\*, João Sacramento, Benjamin F. Grewe
+*ICML 2022 (Spotlight presentation)*
+
+#### [Credit Assignment in Neural Networks through Deep Feedback Control](https://proceedings.neurips.cc/paper/2021/hash/25048eb6a33209cb5a815bff0cf6887c-Abstract.html)
 **Alexander Meulemans**\*, Matilde Tristany Farinha\*, Javier García Ordóñez, Pau Vilimelis Aceituno, João Sacramento, Benjamin F. Grewe
 *NeurIPS 2021 (Spotlight presentation)*
 [(Talk)](https://www.youtube.com/watch?v=tktHvr81DZE)
@@ -14,7 +22,7 @@ David Lindner\*, Kyle Matoba\*, **Alexander Meulemans**\*
 *SafeAI - AAAI 2021*
 
 #### [Neural networks with late-phase weights](https://arxiv.org/abs/2007.12927)
-Johannes von Oswald\*, Seijin Kobayashi\*, João Sacramento\*, **Alexander Meulemans**, Christian Henning, Benjamin F. Grewe
+Johannes von Oswald\*, Seijin Kobayashi\*, **Alexander Meulemans**, Christian Henning, Benjamin F. Grewe, João Sacramento
 *ICLR 2021*
 
 #### [Continual Learning in Recurrent Neural Networks](https://arxiv.org/abs/2006.12109)
