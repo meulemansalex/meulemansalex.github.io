@@ -4,13 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
+#### [Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis](https://arxiv.org/abs/2306.16803)
+**Alexander Meulemans**\*, Simon Schug\*, Seijin Kobayashi\*, Nathaniel Daw, Gregory Wayne
+*Submitted to NeurIPS 2023*
+
 #### [The least-control principle for learning at equilibrium](https://arxiv.org/abs/2207.01332)
 **Alexander Meulemans**\*, Nicolas Zucchet\*, Seijin Kobayashi\*, Johannes von Oswald, João Sacramento
-*Submitted to NeurIPS 2022*
+*NeurIPS 2022 (Oral presentation and award nomination)*
 
 #### [Minimizing Control for Credit Assignment with Strong Feedback](https://arxiv.org/abs/2204.07249)
 **Alexander Meulemans**\*, Matilde Tristany Farinha\*, Maria R. Cervera\*, João Sacramento, Benjamin F. Grewe
-*ICML 2022 (Spotlight presentation)*
+*ICML 2022*
 
 #### [Credit Assignment in Neural Networks through Deep Feedback Control](https://proceedings.neurips.cc/paper/2021/hash/25048eb6a33209cb5a815bff0cf6887c-Abstract.html)
 **Alexander Meulemans**\*, Matilde Tristany Farinha\*, Javier García Ordóñez, Pau Vilimelis Aceituno, João Sacramento, Benjamin F. Grewe
