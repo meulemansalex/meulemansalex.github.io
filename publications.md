@@ -6,7 +6,7 @@ permalink: /publications/
 
 #### [Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis](https://arxiv.org/abs/2306.16803)
 **Alexander Meulemans**\*, Simon Schug\*, Seijin Kobayashi\*, Nathaniel Daw, Gregory Wayne
-*Submitted to NeurIPS 2023*
+*NeurIPS 2023 (Spotlight presentation)*
 
 #### [The least-control principle for learning at equilibrium](https://arxiv.org/abs/2207.01332)
 **Alexander Meulemans**\*, Nicolas Zucchet\*, Seijin Kobayashi\*, Johannes von Oswald, João Sacramento
