@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+#### [Learning probability distributions of sensory inputs with Monte Carlo Predictive Coding](https://www.biorxiv.org/content/10.1101/2024.02.29.581455v1)
+Gaspard Oliviers, Rafal Bogacz, **Alexander Meulemans**
+*In submission*
+
+#### [Structured entity extraction using large language models](https://arxiv.org/abs/2402.04437)
+Haolun Wu, Ye Yuan, Liana Mikaelyan, **Alexander Meulemans**, Xue Liu, James Hensman, Bhaskar Mitra
+*In submission*
+
 #### [Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis](https://arxiv.org/abs/2306.16803)
 **Alexander Meulemans**\*, Simon Schug\*, Seijin Kobayashi\*, Nathaniel Daw, Gregory Wayne
 *NeurIPS 2023 (Spotlight presentation)*
