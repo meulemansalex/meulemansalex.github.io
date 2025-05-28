@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+For an up-to-date publication list, have a look at my [Google scholar page](https://scholar.google.com/citations?user=nnMccw4AAAAJ&hl=en).
+
 #### [Learning probability distributions of sensory inputs with Monte Carlo Predictive Coding](https://www.biorxiv.org/content/10.1101/2024.02.29.581455v1)
 Gaspard Oliviers, Rafal Bogacz, **Alexander Meulemans**
 *In submission*
